@@ -1,0 +1,7 @@
+= Hello World
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+//:hp-image: /covers/cover.png
+:published_at: 2017-06-20
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+This is a test post!
